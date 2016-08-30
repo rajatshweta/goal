@@ -1,0 +1,16 @@
+body{
+  background-image: url("3.jpg");
+  background-repeat: no-repeat;
+  background-size:     cover;
+      
+
+}
+p { border-left: 6px solid green;
+  background: lightgrey;
+
+}
+.At{
+  hight: 400px;
+  width:400px;
+
+}
