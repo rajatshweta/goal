@@ -1,18 +1,62 @@
 body{
-  //background-image: url("1.jpg");
+  background-image: url("backgrounds/3.jpg");
   background-repeat: no-repeat;
-  background-size:     cover;
-
+  background-size:  cover;
+  background-width:100%;
+  background-height:500px;
 
 }
+
+
+//font
+
+ .center {
+font-family: 'Lobster', cursive;
+  font-size: 112px;
+  font-weight: 100;
+  color: blue;
+  //opacity: 2;
+
+
+
+ }
+
+
+
+//font
+ h4 {
+  font-family: 'Poiret One', cursive;
+  font-size: 100px;
+  font-weight: 100;
+  color: red;
+
+
+
+ }
+
+
+
+
+
+
+
+
+
+
 p { border-left: 6px solid green;
   background: lightgrey;
 
+
+
 }
+
+//font
 .At{
   hight: 400px;
   width:400px;
-
+    font-family: 'Josefin Slab', serif;
+   font-weight: 100;
+   font-size: 30px;
 }
 
 
@@ -29,7 +73,7 @@ a {
   padding:  6px;
   background-color: grey;
  }
- #qw {
+ //#qw {
    width: 100%;
    height: auto;
    margin: 0;
