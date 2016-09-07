@@ -8,7 +8,7 @@ body{
 }
 
 
-//font
+
 
  .center {
 font-family: 'Lobster', cursive;
@@ -23,7 +23,7 @@ font-family: 'Lobster', cursive;
 
 
 
-//font
+
  h4 {
   font-family: 'Poiret One', cursive;
   font-size: 100px;
@@ -50,7 +50,7 @@ p { border-left: 6px solid green;
 
 }
 
-//font
+
 .At{
   hight: 400px;
   width:400px;
@@ -73,10 +73,7 @@ a {
   padding:  6px;
   background-color: grey;
  }
- //#qw {
-   width: 100%;
-   height: auto;
-   margin: 0;
+ 
 
 
  }
